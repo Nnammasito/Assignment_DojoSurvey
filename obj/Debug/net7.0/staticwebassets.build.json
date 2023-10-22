@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "xqlkl0Z3Z91SpqmK2VGVN/5KzSQzPIoSyjDKj0+tVUo=",
+  "Source": "Assignment_DojoSurvey",
+  "BasePath": "_content/Assignment_DojoSurvey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment_DojoSurvey\\wwwroot",
+      "Source": "Assignment_DojoSurvey",
+      "ContentRoot": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assignment_DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/Assignment_DojoSurvey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assignment_DojoSurvey\\wwwroot\\css\\styles.css",
+      "SourceId": "Assignment_DojoSurvey",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assignment_DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/Assignment_DojoSurvey",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assignment_DojoSurvey\\wwwroot\\css\\stylesresult.css",
+      "SourceId": "Assignment_DojoSurvey",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assignment_DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/Assignment_DojoSurvey",
+      "RelativePath": "css/stylesresult.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\stylesresult.css"
+    }
+  ]
+}

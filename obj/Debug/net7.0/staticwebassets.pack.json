@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assignment_DojoSurvey\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assignment_DojoSurvey\\wwwroot\\css\\stylesresult.css",
+      "PackagePath": "staticwebassets\\css\\stylesresult.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Assignment_DojoSurvey.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Assignment_DojoSurvey.props",
+      "PackagePath": "build\\Assignment_DojoSurvey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment_DojoSurvey.props",
+      "PackagePath": "buildMultiTargeting\\Assignment_DojoSurvey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Assignment_DojoSurvey.props",
+      "PackagePath": "buildTransitive\\Assignment_DojoSurvey.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
